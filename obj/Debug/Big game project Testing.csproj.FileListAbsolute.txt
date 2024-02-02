@@ -1,0 +1,10 @@
+C:\Users\KamalM12\source\repos\Big game project Testing\bin\Debug\Big game project Testing.exe.config
+C:\Users\KamalM12\source\repos\Big game project Testing\bin\Debug\Big game project Testing.exe
+C:\Users\KamalM12\source\repos\Big game project Testing\bin\Debug\Big game project Testing.pdb
+C:\Users\KamalM12\source\repos\Big game project Testing\obj\Debug\Big game project Testing.csproj.AssemblyReference.cache
+C:\Users\KamalM12\source\repos\Big game project Testing\obj\Debug\Big game project Testing.csproj.SuggestedBindingRedirects.cache
+C:\Users\KamalM12\source\repos\Big game project Testing\obj\Debug\Big_game_project_Testing.Properties.Resources.resources
+C:\Users\KamalM12\source\repos\Big game project Testing\obj\Debug\Big game project Testing.csproj.GenerateResource.cache
+C:\Users\KamalM12\source\repos\Big game project Testing\obj\Debug\Big game project Testing.csproj.CoreCompileInputs.cache
+C:\Users\KamalM12\source\repos\Big game project Testing\obj\Debug\Big game project Testing.exe
+C:\Users\KamalM12\source\repos\Big game project Testing\obj\Debug\Big game project Testing.pdb
